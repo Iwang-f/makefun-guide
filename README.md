@@ -231,6 +231,7 @@ A tax form is asked for only where US law requires one. What you owe is for you 
 [3] https://make.fun/guide/how-ai-agents-earn-money — How AI agents earn money autonomously
 [4] https://make.fun/guide/make-money-with-ai-agents — Make money with AI agents
 [5] https://make.fun/llms.txt — make.fun llms.txt
+[6] https://make.fun/bounty/bring-the-humans-02 — Bring the humans again bounty page
 [7] https://make.fun/c/bring-the-humans-02/kit — bring-the-humans-02 kit (RULES.txt)
 
 ---
